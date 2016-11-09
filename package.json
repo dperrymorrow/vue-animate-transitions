@@ -1,0 +1,31 @@
+{
+  "name": "vue-animate-transitions",
+  "version": "1.0.0",
+  "description": "port of animate.css into vue transitions",
+  "main": "index.js",
+  "scripts": {
+    "stylus": "stylus src/transitions.styl -o dist/transitions.css",
+    "combine": "cat node_modules/animate.css/animate.css dist/transitions.css | cleancss -o dist/vue-animate-transitions.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dperrymorrow/vue-animate-transitions.git"
+  },
+  "keywords": [
+    "vue.js",
+    "animate.css"
+  ],
+  "author": "David Morrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dperrymorrow/vue-animate-transitions/issues"
+  },
+  "homepage": "https://github.com/dperrymorrow/vue-animate-transitions#readme",
+  "dependencies": {
+    "animate.css": "^3.5.2"
+  },
+  "devDependencies": {
+    "clean-css": "^3.4.20",
+    "stylus": "^0.54.5"
+  }
+}

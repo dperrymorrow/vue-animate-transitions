@@ -1,0 +1,132 @@
+[
+  {
+    "in": "bounceIn",
+    "out": "bounceOut"
+  },
+  {
+    "in": "bounceInDown",
+    "out": "bounceOutUp"
+  },
+  {
+    "in": "bounceInUp",
+    "out": "bounceOutDown"
+  },
+  {
+    "in": "bounceInLeft",
+    "out": "bounceOutRight"
+  },
+  {
+    "in": "bounceInRight",
+    "out": "bounceOutLeft"
+  },
+  {
+    "in": "fadeIn",
+    "out": "fadeOut"
+  },
+  {
+    "in": "fadeInDown",
+    "out": "fadeOutUp"
+  },
+  {
+    "in": "fadeInDownBig",
+    "out": "fadeOutUpBig"
+  },
+  {
+    "in": "fadeInLeft",
+    "out": "fadeOutRight"
+  },
+  {
+    "in": "fadeInLeftBig",
+    "out": "fadeOutRightBig"
+  },
+  {
+    "in": "fadeInRight",
+    "out": "fadeOutLeft"
+  },
+  {
+    "in": "fadeInRightBig",
+    "out": "fadeOutLeftBig"
+  },
+  {
+    "in": "fadeInUp",
+    "out": "fadeOutDown"
+  },
+  {
+    "in": "fadeInUpBig",
+    "out": "fadeOutDownBig"
+  },
+  {
+    "in": "flipInX",
+    "out": "flipOutX"
+  },
+  {
+    "in": "flipInY",
+    "out": "flipOutY"
+  },
+  {
+    "in": "lightSpeedIn",
+    "out": "lightSpeedOut"
+  },
+  {
+    "in": "rotateIn",
+    "out": "rotateOut"
+  },
+  {
+    "in": "rotateInDownLeft",
+    "out": "rotateOutDownLeft"
+  },
+  {
+    "in": "rotateInDownRight",
+    "out": "rotateOutDownRight"
+  },
+  {
+    "in": "rotateInUpLeft",
+    "out": "rotateOutUpLeft"
+  },
+  {
+    "in": "rotateInUpRight",
+    "out": "rotateOutUpRight"
+  },
+  {
+    "in": "rollIn",
+    "out": "rollOut"
+  },
+  {
+    "in": "zoomIn",
+    "out": "zoomOut"
+  },
+  {
+    "in": "zoomInDown",
+    "out": "zoomOutDown"
+  },
+  {
+    "in": "zoomInLeft",
+    "out": "zoomOutLeft"
+  },
+  {
+    "in": "zoomInRight",
+    "out": "zoomOutRight"
+  },
+  {
+    "in": "zoomInUp",
+    "out": "zoomOutUp"
+  },
+  {
+    "in": "slideInDown",
+    "out": "slideOutDown"
+  },
+  {
+    "in": "slideInLeft",
+    "out": "slideOutLeft"
+  },
+  {
+    "in": "slideInRight",
+    "out": "slideOutRight"
+  },
+  {
+    "in": "slideInUp",
+    "out": "slideOutUp"
+  }
+]
+
+

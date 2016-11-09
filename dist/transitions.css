@@ -1,0 +1,264 @@
+.bounceIn-enter-active {
+  animation: bounceIn 0.5s ease-out;
+}
+.bounceIn-leave-active {
+  animation: bounceOut 0.5s ease-in;
+}
+.bounceInDown-enter-active {
+  animation: bounceInDown 0.5s ease-out;
+}
+.bounceInDown-leave-active {
+  animation: bounceOutUp 0.5s ease-in;
+}
+.bounceInUp-enter-active {
+  animation: bounceInUp 0.5s ease-out;
+}
+.bounceInUp-leave-active {
+  animation: bounceOutDown 0.5s ease-in;
+}
+.bounceInLeft-enter-active {
+  animation: bounceInLeft 0.5s ease-out;
+}
+.bounceInLeft-leave-active {
+  animation: bounceOutRight 0.5s ease-in;
+}
+.bounceInRight-enter-active {
+  animation: bounceInRight 0.5s ease-out;
+}
+.bounceInRight-leave-active {
+  animation: bounceOutLeft 0.5s ease-in;
+}
+.fadeIn-enter-active {
+  animation: fadeIn 0.5s ease-out;
+}
+.fadeIn-leave-active {
+  animation: fadeOut 0.5s ease-in;
+}
+.fadeInDown-enter-active {
+  animation: fadeInDown 0.5s ease-out;
+}
+.fadeInDown-leave-active {
+  animation: fadeOutUp 0.5s ease-in;
+}
+.fadeInDownBig-enter-active {
+  animation: fadeInDownBig 0.5s ease-out;
+}
+.fadeInDownBig-leave-active {
+  animation: fadeOutUpBig 0.5s ease-in;
+}
+.fadeInLeft-enter-active {
+  animation: fadeInLeft 0.5s ease-out;
+}
+.fadeInLeft-leave-active {
+  animation: fadeOutRight 0.5s ease-in;
+}
+.fadeInLeftBig-enter-active {
+  animation: fadeInLeftBig 0.5s ease-out;
+}
+.fadeInLeftBig-leave-active {
+  animation: fadeOutRightBig 0.5s ease-in;
+}
+.fadeInRight-enter-active {
+  animation: fadeInRight 0.5s ease-out;
+}
+.fadeInRight-leave-active {
+  animation: fadeOutLeft 0.5s ease-in;
+}
+.fadeInRightBig-enter-active {
+  animation: fadeInRightBig 0.5s ease-out;
+}
+.fadeInRightBig-leave-active {
+  animation: fadeOutLeftBig 0.5s ease-in;
+}
+.fadeInUp-enter-active {
+  animation: fadeInUp 0.5s ease-out;
+}
+.fadeInUp-leave-active {
+  animation: fadeOutDown 0.5s ease-in;
+}
+.fadeInUpBig-enter-active {
+  animation: fadeInUpBig 0.5s ease-out;
+}
+.fadeInUpBig-leave-active {
+  animation: fadeOutDownBig 0.5s ease-in;
+}
+.flipInX-enter-active {
+  animation: flipInX 0.5s ease-out;
+}
+.flipInX-leave-active {
+  animation: flipOutX 0.5s ease-in;
+}
+.flipInY-enter-active {
+  animation: flipInY 0.5s ease-out;
+}
+.flipInY-leave-active {
+  animation: flipOutY 0.5s ease-in;
+}
+.lightSpeedIn-enter-active {
+  animation: lightSpeedIn 0.5s ease-out;
+}
+.lightSpeedIn-leave-active {
+  animation: lightSpeedOut 0.5s ease-in;
+}
+.rotateIn-enter-active {
+  animation: rotateIn 0.5s ease-out;
+}
+.rotateIn-leave-active {
+  animation: rotateOut 0.5s ease-in;
+}
+.rotateInDownLeft-enter-active {
+  animation: rotateInDownLeft 0.5s ease-out;
+}
+.rotateInDownLeft-leave-active {
+  animation: rotateOutDownLeft 0.5s ease-in;
+}
+.rotateInDownRight-enter-active {
+  animation: rotateInDownRight 0.5s ease-out;
+}
+.rotateInDownRight-leave-active {
+  animation: rotateOutDownRight 0.5s ease-in;
+}
+.rotateInUpLeft-enter-active {
+  animation: rotateInUpLeft 0.5s ease-out;
+}
+.rotateInUpLeft-leave-active {
+  animation: rotateOutUpLeft 0.5s ease-in;
+}
+.rotateInUpRight-enter-active {
+  animation: rotateInUpRight 0.5s ease-out;
+}
+.rotateInUpRight-leave-active {
+  animation: rotateOutUpRight 0.5s ease-in;
+}
+.rollIn-enter-active {
+  animation: rollIn 0.5s ease-out;
+}
+.rollIn-leave-active {
+  animation: rollOut 0.5s ease-in;
+}
+.zoomIn-enter-active {
+  animation: zoomIn 0.5s ease-out;
+}
+.zoomIn-leave-active {
+  animation: zoomOut 0.5s ease-in;
+}
+.zoomInDown-enter-active {
+  animation: zoomInDown 0.5s ease-out;
+}
+.zoomInDown-leave-active {
+  animation: zoomOutDown 0.5s ease-in;
+}
+.zoomInLeft-enter-active {
+  animation: zoomInLeft 0.5s ease-out;
+}
+.zoomInLeft-leave-active {
+  animation: zoomOutLeft 0.5s ease-in;
+}
+.zoomInRight-enter-active {
+  animation: zoomInRight 0.5s ease-out;
+}
+.zoomInRight-leave-active {
+  animation: zoomOutRight 0.5s ease-in;
+}
+.zoomInUp-enter-active {
+  animation: zoomInUp 0.5s ease-out;
+}
+.zoomInUp-leave-active {
+  animation: zoomOutUp 0.5s ease-in;
+}
+.slideInDown-enter-active {
+  animation: slideInDown 0.5s ease-out;
+}
+.slideInDown-leave-active {
+  animation: slideOutDown 0.5s ease-in;
+}
+.slideInLeft-enter-active {
+  animation: slideInLeft 0.5s ease-out;
+}
+.slideInLeft-leave-active {
+  animation: slideOutLeft 0.5s ease-in;
+}
+.slideInRight-enter-active {
+  animation: slideInRight 0.5s ease-out;
+}
+.slideInRight-leave-active {
+  animation: slideOutRight 0.5s ease-in;
+}
+.slideInUp-enter-active {
+  animation: slideInUp 0.5s ease-out;
+}
+.slideInUp-leave-active {
+  animation: slideOutUp 0.5s ease-in;
+}
+.animate-delay-0 {
+  animation-delay: 0;
+}
+.animate-delay-0-25 {
+  animation-delay: 0.25;
+}
+.animate-delay-0-5 {
+  animation-delay: 0.5;
+}
+.animate-delay-0-75 {
+  animation-delay: 0.75;
+}
+.animate-delay-1 {
+  animation-delay: 1;
+}
+.animate-delay-1-25 {
+  animation-delay: 1.25;
+}
+.animate-delay-1-5 {
+  animation-delay: 1.5;
+}
+.animate-delay-1-75 {
+  animation-delay: 1.75;
+}
+.animate-delay-2 {
+  animation-delay: 2;
+}
+.animate-delay-2-25 {
+  animation-delay: 2.25;
+}
+.animate-delay-2-5 {
+  animation-delay: 2.5;
+}
+.animate-delay-2-75 {
+  animation-delay: 2.75;
+}
+.animate-delay-3 {
+  animation-delay: 3;
+}
+.animate-delay-3-25 {
+  animation-delay: 3.25;
+}
+.animate-delay-3-5 {
+  animation-delay: 3.5;
+}
+.animate-delay-3-75 {
+  animation-delay: 3.75;
+}
+.animate-delay-4 {
+  animation-delay: 4;
+}
+.animate-delay-4-25 {
+  animation-delay: 4.25;
+}
+.animate-delay-4-5 {
+  animation-delay: 4.5;
+}
+.animate-delay-4-75 {
+  animation-delay: 4.75;
+}
+.animate-delay-5 {
+  animation-delay: 5;
+}
+.animate-delay-5-25 {
+  animation-delay: 5.25;
+}
+.animate-delay-5-5 {
+  animation-delay: 5.5;
+}
+.animate-delay-5-75 {
+  animation-delay: 5.75;
+}
