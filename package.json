@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "stylus": "stylus src/transitions.styl -o dist/transitions.css",
-    "combine": "cat node_modules/animate.css/animate.css dist/transitions.css | cleancss -o dist/vue-animate-transitions.min.css"
+    "combine": "cat node_modules/animate.css/animate.css dist/transitions.css | cleancss -o dist/vue-animate-transitions.min.css",
+    "build": "npm run stylus && npm run combine"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,8 @@
   },
   "devDependencies": {
     "clean-css": "^3.4.20",
+    "connect": "^3.5.0",
+    "serve-static": "^1.11.1",
     "stylus": "^0.54.5"
   }
 }

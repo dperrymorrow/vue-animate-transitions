@@ -10,16 +10,3 @@ for $trans in $animations
 
   .{$cur["in"]}-leave-active
     animation: $cur["out"] $trans-duration ease-in
-
-for $dur in (0..5)
-  .animate-delay-{$dur}
-    animation-delay: $dur
-
-  .animate-delay-{$dur}-25
-    animation-delay: ($dur + .25)
-
-  .animate-delay-{$dur}-5
-    animation-delay: ($dur + .5)
-
-  .animate-delay-{$dur}-75
-    animation-delay: ($dur + .75)
