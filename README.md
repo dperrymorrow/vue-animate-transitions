@@ -1,6 +1,9 @@
 # vue-animate-transitions
 Port of animate.css to view transitions
 
+## demo
+[→ Demo Here](https://dperrymorrow.github.io/vue-animate-transitions/)
+
 ## to install
 
 ```
