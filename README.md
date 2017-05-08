@@ -7,7 +7,7 @@ Port of animate.css to view transitions
 ## Install
 
 ```
-npm install vue-animate-transition
+npm install vue-animate-transitions
 ```
 
 load in the ```dist/vue-animate-transitions.min.css```
