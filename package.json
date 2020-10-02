@@ -2,7 +2,7 @@
   "name": "vue-animate-transitions",
   "version": "1.1.0",
   "description": "port of animate.css into vue transitions",
-  "main": "dist/vue-animate-transitions.min.js",
+  "main": "dist/vue-animate-transitions.min.css",
   "scripts": {
     "stylus": "stylus src/transitions.styl -o dist/transitions.css",
     "combine": "cat node_modules/animate.css/animate.css dist/transitions.css | cleancss -o dist/vue-animate-transitions.min.css",
