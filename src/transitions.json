@@ -33,15 +33,15 @@
   },
   {
     "in": "fadeInLeft",
-    "out": "fadeOutRight"
+    "out": "fadeOutLeft"
   },
   {
     "in": "fadeInLeftBig",
-    "out": "fadeOutRightBig"
+    "out": "fadeOutLeftBig"
   },
   {
     "in": "fadeInRight",
-    "out": "fadeOutLeft"
+    "out": "fadeOutRight"
   },
   {
     "in": "fadeInRightBig",
@@ -128,5 +128,3 @@
     "out": "slideOutUp"
   }
 ]
-
-

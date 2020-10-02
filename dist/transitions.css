@@ -50,19 +50,19 @@
   animation: fadeInLeft 0.5s ease-out;
 }
 .fadeInLeft-leave-active {
-  animation: fadeOutRight 0.5s ease-in;
+  animation: fadeOutLeft 0.5s ease-in;
 }
 .fadeInLeftBig-enter-active {
   animation: fadeInLeftBig 0.5s ease-out;
 }
 .fadeInLeftBig-leave-active {
-  animation: fadeOutRightBig 0.5s ease-in;
+  animation: fadeOutLeftBig 0.5s ease-in;
 }
 .fadeInRight-enter-active {
   animation: fadeInRight 0.5s ease-out;
 }
 .fadeInRight-leave-active {
-  animation: fadeOutLeft 0.5s ease-in;
+  animation: fadeOutRight 0.5s ease-in;
 }
 .fadeInRightBig-enter-active {
   animation: fadeInRightBig 0.5s ease-out;
