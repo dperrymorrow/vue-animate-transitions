@@ -1,6 +1,6 @@
 {
   "name": "vue-animate-transitions",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "port of animate.css into vue transitions",
   "main": "dist/vue-animate-transitions.min.css",
   "scripts": {
